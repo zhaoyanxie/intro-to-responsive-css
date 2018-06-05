@@ -1,0 +1,22 @@
+body {
+  font-family: Helvetica Neue
+}
+
+.main {
+  height: 200px;
+  background: gold;
+}
+
+@media all and (max-width: 1000px) {
+  .main {
+    background: lightblue
+  }
+}
+
+@media all and (max-width: 600px) {
+  .main {
+    background: lightgrey
+  }
+}
+
+
