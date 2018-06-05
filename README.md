@@ -6,3 +6,5 @@
 - Start live server:
   - open command palette: hit `F1`
   - type: 'open with live server' and select the option that shows up
+- In your browser, click on `demo.html` to see a basic demo of media queries
+- In your browser, click on `instagram.html` to access your lab
